@@ -27,29 +27,39 @@ A classic Snake Game built using Python and the `turtle` graphics module. This p
 1. Make sure you have Python 3 installed.
 2. Clone the repository or download the ZIP.
 
-```bash
+
 git clone https://github.com/Robbin808/Snake_game.git
 cd Snake_game
+
 Run the main.py file:
 
-
-python main.py
-📂 File Structure
-
+---
 Snake_game/
-├── main.py           # Main game loop
-├── snake.py          # Snake class
-├── food.py           # Food class
-├── scoreboard.py     # Scoreboard class
-└── README.md         # Project documentation
-🖼️ Screenshot
-<img width="756" height="796" alt="Screenshot 2025-07-26 235640" src="https://github.com/user-attachments/assets/51930784-5a0d-4d27-bb74-77e42ea968d9" />
 
+├── main.py           # Main game loop
+
+├── snake.py          # Snake class
+
+├── food.py           # Food class
+
+├── scoreboard.py     # Scoreboard class
+
+└── README.md         # Project documentation
+
+---
+
+🖼️ Screenshot
+
+<img width="756" height="796" alt="Screenshot 2025-07-26 235640" src="https://github.com/user-attachments/assets/98cf7dff-d484-4fb1-94b3-16373c65b50d" />
 
 🚀 Future Improvements
+
 Add sound effects
 
 Introduce game levels or speed-up mechanism
 
 Implement high score saving
+
+
+
 

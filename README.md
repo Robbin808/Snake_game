@@ -32,14 +32,10 @@ git clone https://github.com/Robbin808/Snake_game.git
 cd Snake_game
 Run the main.py file:
 
-bash
-Copy
-Edit
+
 python main.py
 📂 File Structure
-bash
-Copy
-Edit
+
 Snake_game/
 ├── main.py           # Main game loop
 ├── snake.py          # Snake class
